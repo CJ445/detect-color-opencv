@@ -39,5 +39,6 @@ deactivate
 
 - To tell our program to detect all pixels from a given color, we have to give it the whole region as reference containing that color.
 - For example, If we take the color yellow, below is the region that we have to specify to the program to recognize as yellow.
-- 
-![image](https://github.com/user-attachments/assets/55ef6d88-6c57-4eee-9cac-f3afe17a954e)
+-
+![image](https://github.com/user-attachments/assets/bf8aa988-9b59-43b2-aa85-a9714a232a1a)
+
