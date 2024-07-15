@@ -29,8 +29,9 @@ deactivate
 
 - In some cases,it is more convenient to shift from RGB to HSV colorspace depending on the usecase i.e. what we want to do with the images.
 - Below is an image of how an HSV colorspace looks like.
-- 
-![image](https://github.com/user-attachments/assets/b68cf8bf-0141-4c10-9b5d-d962fdfa9f1d)
+-
+![image](https://github.com/user-attachments/assets/398a2a5d-a1dc-40b6-af7d-7d3e7f039268)
+
 - We'll be mostly be utilizing the Hue channel to differentiate between colors.
 - Below is the top-view of the HSV colorspace cylinder
 - 
