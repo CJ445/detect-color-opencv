@@ -27,7 +27,7 @@ pip install -r requirements.txt
 deactivate
 ```
 
-- In some cases,it is more convenient to shift from RGB to HSV colorspace depending on the usecase i.e. what we want to do with the images.
+- In some cases,it is more convenient to shift from BGR to HSV colorspace depending on the usecase i.e. what we want to do with the images.
 - Below is an image of how an HSV colorspace looks like.
 -
 ![image](https://github.com/user-attachments/assets/398a2a5d-a1dc-40b6-af7d-7d3e7f039268)
