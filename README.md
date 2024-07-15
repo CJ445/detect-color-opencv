@@ -40,5 +40,7 @@ deactivate
 - To tell our program to detect all pixels from a given color, we have to give it the whole region as reference containing that color.
 - For example, If we take the color yellow, below is the region that we have to specify to the program to recognize as yellow.
 - To define the interval, we have to specify two values marking the beginning and end of the region. This will be done using the cv2.inRange() function.
+- To make the work easier, we will be utilizing the get_limits() function from util.py file defined by us.
+- 
 ![image](https://github.com/user-attachments/assets/bf8aa988-9b59-43b2-aa85-a9714a232a1a)
 
